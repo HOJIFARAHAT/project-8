@@ -1,0 +1,8 @@
+.box{background-color: #ddd;
+}
+.gallery{background: #ddd;}
+.social{}
+.social ul{text-align: center;}
+.social ul li{list-style-type: none;display: inline-block;}
+
+.social ul li a{margin: 20px;color: #009688; color: #009688;}
